@@ -1,0 +1,7 @@
+/* AUTHOR */
+
+
+
+#X00WrapperLogin, #X00WrapperMain {margin: 20px auto; width: 700px}
+@media (max-width: 767px) { #X00WrapperLogin, #X00WrapperMain {width: 95%} }
+@media (max-width: 480px) { #X00WrapperLogin, #X00WrapperMain {width: 95%} }
